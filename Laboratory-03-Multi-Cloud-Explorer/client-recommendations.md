@@ -9,7 +9,7 @@
   2. **Amazon DynamoDB** (Scalable NoSQL Database)
   3. **AWS Lambda** (Serverless Backend Execution)
 
----
+
 
 ## Client B – University
 * **Recommended Platform:** Microsoft Azure
@@ -20,7 +20,7 @@
   2. **Azure Virtual Machines** (Hosting existing Windows Server workloads)
   3. **Azure SQL Database** (Cloud relational database storage)
 
----
+
 
 ## Client C – AI Research Company
 * **Recommended Platform:** Google Cloud Platform (GCP)
@@ -31,7 +31,7 @@
   2. **Compute Engine with Cloud TPUs / GPUs** (High-Performance Machine Learning Accelerators)
   3. **BigQuery** (Large-scale data warehouse and analytics engine)
 
----
+
 
 ## Client D – Global E-Commerce Company
 * **Recommended Platform:** Amazon Web Services (AWS)
@@ -42,14 +42,6 @@
   2. **Amazon Aurora Global Database** (High-performance multi-region relational database)
   3. **Amazon CloudFront** (Global Content Delivery Network)
 
----
-
-## 🔗 Official Documentation & Citations (Access Anytime)
-
-* **AWS Startup Program:** [AWS Activate Program Terms & Documentation](https://aws.amazon.com/activate/terms/)
-* **Microsoft Identity Integration:** [Microsoft Entra ID Hybrid Identity Documentation](https://learn.microsoft.com/en-us/entra/identity/hybrid/)
-* **GCP Machine Learning Architecture:** [Google Cloud TPU & Vertex AI Documentation](https://docs.cloud.google.com/tpu/docs)
-* **AWS Global Architecture:** [Amazon Aurora Global Database Architecture](https://www.amazonaws.cn/en/rds/aurora/global-database/)
 
 CITETATION
 
