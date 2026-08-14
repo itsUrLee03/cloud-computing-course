@@ -25,6 +25,19 @@ Google Cloud Platform (GCP) leads in Artificial Intelligence and Kubernetes deve
 I would personally choose Amazon Web Services (AWS) due to its extensive market documentation, widespread adoption, and robust community support. Having access to deep documentation and community resources simplifies troubleshooting and development speed. Additionally, AWS’s mature serverless architecture and wide variety of managed database options make it ideal for rapidly prototyping scalable web applications.
 
 
+## Checkpoint 5 – Match the Cloud Services
+
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+
+
+
 
 Citetation
 
@@ -33,4 +46,15 @@ https://en.wikipedia.org/wiki/Google_Cloud_Platform
 https://en.wikipedia.org/wiki/Microsoft_Azure
 
 https://en.wikipedia.org/wiki/Amazon_Web_Services
+
+
+https://aws.amazon.com/what-is/virtual-machine/
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-virtual-machine
+
+https://cloud.google.com/learn/what-is-a-virtual-machine
+
+https://cloud.google.com/learn/what-is-kubernetes
+
+https://learn.microsoft.com/en-us/azure/aks/what-is-aks
 
