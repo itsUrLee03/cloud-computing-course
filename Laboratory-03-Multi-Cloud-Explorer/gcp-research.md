@@ -11,8 +11,7 @@ Google Cloud Platform (GCP) is a suite of cloud computing services offered by Go
 ## Cloud Management Console
 The Google Cloud Console is designed around project-based organization and simplicity. It features an intuitive web dashboard, built-in Cloud Shell with pre-configured developer tools, and clear resource monitoring via Google Cloud Observability.
 
-> **Note:** Include at least one screenshot of the official homepage or management console here.
-![GCP Console Screenshot](./gcp-console.png)
+![GCP Console Screenshot](GCP Console.png)
 
 ## Core Services
 1. **Compute:** Google Compute Engine -Run VMs on high-performance and reliable cloud infrastructure. Choose from preset or custom machine types for web servers, databases, and applications that fuel your agents.
