@@ -23,3 +23,14 @@ Google Cloud Platform (GCP) leads in Artificial Intelligence and Kubernetes deve
 
 4. Which cloud platform would you personally choose and why?
 I would personally choose Amazon Web Services (AWS) due to its extensive market documentation, widespread adoption, and robust community support. Having access to deep documentation and community resources simplifies troubleshooting and development speed. Additionally, AWS’s mature serverless architecture and wide variety of managed database options make it ideal for rapidly prototyping scalable web applications.
+
+
+
+Citetation
+
+https://en.wikipedia.org/wiki/Google_Cloud_Platform
+
+https://en.wikipedia.org/wiki/Microsoft_Azure
+
+https://en.wikipedia.org/wiki/Amazon_Web_Services
+
