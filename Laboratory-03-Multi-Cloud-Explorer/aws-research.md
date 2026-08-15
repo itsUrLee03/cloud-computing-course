@@ -29,3 +29,11 @@ The AWS Management Console provides a web-based UI for managing AWS resources. I
 ## Typical Enterprise Use Cases
 - Hosting scalable, multi-region e-commerce backends with automatic failover.
 - Running serverless microservice architectures with minimal infrastructure maintenance.
+
+
+
+
+
+CITETATION
+
+https://aws.amazon.com/console/
