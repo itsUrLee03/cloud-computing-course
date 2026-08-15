@@ -11,8 +11,7 @@ Amazon Web Services (AWS) is a comprehensive, evolving cloud computing platform 
 ## Cloud Management Console
 The AWS Management Console provides a web-based UI for managing AWS resources. It features customizable dashboards, an integrated CloudShell command-line environment, and quick navigation menus to monitor infrastructure health, cost metrics, and active resource instances.
 
-> **Note:** Include at least one screenshot of the official homepage or management console here.
-![AWS Console Screenshot](./aws-console.png)
+<img width="1917" height="1079" alt="Screenshot 2026-08-15 223805" src="https://github.com/user-attachments/assets/b46494ea-6463-44c2-ab15-c3b38a2d05e9" />
 
 ## Core Services
 1. **Compute:** Amazon EC2 (Elastic Compute Cloud) - Scalable virtual servers in the cloud.
