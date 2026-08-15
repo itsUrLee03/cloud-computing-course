@@ -18,6 +18,6 @@ If this Linux server were migrated to the cloud, the equivalent Infrastructure a
 ---
 
 
-AWS EC2 Documentation Portal (https://docs.aws.amazon.com/ec2/)
-Azure Linux VMs Documentation Portal (https://learn.microsoft.com/en-us/azure/virtual-machines/)
-Google Compute Engine VM Instances Portal (https://docs.cloud.google.com/compute/docs/instances)
+* **AWS EC2 Documentation Portal** (https://docs.aws.amazon.com/ec2/)
+* **Azure Linux VMs Documentation Portal** (https://learn.microsoft.com/en-us/azure/virtual-machines/)
+* **Google Compute Engine VM Instances Portal** (https://docs.cloud.google.com/compute/docs/instances)
