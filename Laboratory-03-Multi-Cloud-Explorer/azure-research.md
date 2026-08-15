@@ -11,8 +11,8 @@ Microsoft Azure is a leading cloud computing platform launched in 2010. Designed
 ## Cloud Management Console
 The Azure Portal features a customizable blade-based user interface optimized for enterprise resource grouping. It provides built-in Azure Advisor recommendations, unified identity access controls, and integrated Azure Cloud Shell for PowerShell and Bash management.
 
-> **Note:** Include at least one screenshot of the official homepage or management console here.
-![Azure Console Screenshot](./azure-console.png)
+<img width="1919" height="1079" alt="Screenshot 2026-08-15 224711" src="https://github.com/user-attachments/assets/bdd8212e-1257-49a2-92a0-2133125a2210" />
+
 
 ## Core Services
 1. **Compute:** Azure Virtual Machines - On-demand, scalable compute capacity running Linux or Windows.
@@ -28,3 +28,11 @@ The Azure Portal features a customizable blade-based user interface optimized fo
 ## Typical Enterprise Use Cases
 - Migrating existing on-premises Active Directory and Windows Server infrastructure to the cloud.
 - Enterprise hybrid cloud deployments requiring compliance and local database syncing.
+
+
+
+
+
+CITETATION
+
+https://azure.microsoft.com/en-us/explore/
